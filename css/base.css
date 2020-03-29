@@ -1,0 +1,23 @@
+@media (min-width:  768px) {
+    body {
+      width: 480x;
+      margin: auto;
+      background-color: rgb(110, 146, 146);
+      
+    }
+     #div5,#div55{
+         width: 50%;
+        display: inline-block;
+    } 
+    #div6,#div66{
+        width: 50%;
+        display: inline-block;
+    }  
+  }
+
+
+body{
+    width: 480px;
+    margin: auto;
+ 
+}

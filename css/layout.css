@@ -1,0 +1,44 @@
+
+  #div1 {
+    background-color: royalblue;
+    color: #eee;
+    width: 480px;
+    height: 75px;
+    text-align: center;
+    line-height: 75px;
+  }
+
+  #div2 {
+    background-color: rgb(92, 24, 77);
+    color: #eee;
+    width: 480px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+  }
+
+  #div3{
+    background-color: rgb(167, 39, 60);
+    color: #eee;
+    width: 480px;
+    height: 125px;
+    text-align: center;
+    line-height: 125px;
+  }
+  #div4{
+    background-color: rgb(21, 176, 223);
+    color: #eee;
+    width: 480px;
+    height: 125px;
+    text-align: center;
+    line-height: 125px;
+  }
+
+  #div7 {
+    background-color: rgb(245, 7, 7);
+    color: #eee;
+    width: 480px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+  }
